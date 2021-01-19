@@ -1,0 +1,37 @@
+.top
+{
+  max-height: 50px;
+  width:100%;
+}
+.catdiv
+{
+height: 500px;
+position:relative;
+}
+.catla
+{
+  position:relative;
+
+
+}
+.inputdiv
+{
+  left: calc(50% - 100px);
+  right: calc(50% - 200px);
+  position: absolute;
+}
+.topmenu
+{
+  height: 50px;
+  width: 200px;
+  display:inline-block;/*.移除*/
+  text-align: center;
+  padding-top: 23px;
+  font-size: 19px;
+  background-color: #2050be;
+  font-family:Microsoft JhengHei;
+}
+.topmenu:hover
+{
+  background-color: #6c8cda;
+}
